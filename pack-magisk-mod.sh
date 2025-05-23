@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#
+# Packaging magisk module
+#
+
 MOD_UP_DIR="./Ban-Volume-Up/system/usr/keylayout"
 MOD_DOWN_DIR="./Ban-Volume-Down/system/usr/keylayout"
 MOD_ALL_DIR="./Ban-Volume-All/system/usr/keylayout"

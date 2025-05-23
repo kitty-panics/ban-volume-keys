@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#
+# Auto generate .kl files
+#
+
 UP_DIR="/sdcard/sys_ban_volume_up"
 DOWN_DIR="/sdcard/sys_ban_volume_down"
 ALL_DIR="/sdcard/sys_ban_volume_all"
